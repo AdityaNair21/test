@@ -1,0 +1,18 @@
+{
+    "name": "test",
+    "dependencies": {
+        "device": "*",
+        "Darren-DuckCatchBlocks": "github:darkdarcool/darren-duckcatchblocks#ab44b9185d7ea4f5063c318118e9e17240fcc176",
+        "Isobel-Duck catch blocks": "github:isobelschweigert/isobel-duck-catch#06cb99c2b8ef4d3c54d9e6f4b7096ae5d73d3c17"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
